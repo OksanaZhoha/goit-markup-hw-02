@@ -20,6 +20,10 @@ body {
     color: #434455;
 }
 
+address {
+    font-style: normal;
+}
+
 /*Header Styles*/
 
 .logotype {
@@ -52,6 +56,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
+    color: #434455;
 }
 
 .contact-list-link:hover,
@@ -105,6 +110,10 @@ body {
 
 /*Our Team Styles*/
 
+.team {
+    background-color: #F4F4FD;
+}
+
 .team-section-title {
     text-align: center;
     font-size: 36px;
@@ -113,10 +122,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
-}
-
-.team-list-item {
-    background-color: #FFFFFF;
 }
 
 .team-list-title {

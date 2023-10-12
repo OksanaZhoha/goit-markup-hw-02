@@ -110,6 +110,10 @@ address {
 
 /*Our Team Styles*/
 
+.team {
+    background-color: #F4F4FD;
+}
+
 .team-list-item {
     background-color: #FFFFFF;
 }

@@ -16,14 +16,11 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    background-color: #FFFFFF;
+    color: #434455;
 }
 
 /*Header Styles*/
-
-.page-header {
-    background-color: #FFFFFF;
-}
 
 .logotype {
     font-family: 'Raleway', sans-serif;
@@ -43,6 +40,7 @@ body {
     
     font-size: 16px;
     font-weight: 500;
+    color: #2E2F42;
 }
 
 .menu-link:hover,
@@ -54,7 +52,6 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    color: #434455;
 }
 
 .contact-list-link:hover,
@@ -75,12 +72,14 @@ body {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
+    letter-spacing: 0.02em;
     color: #FFFFFF;
 }
 
 .order-service-button {
     font-size: 16px;
     font-weight: 500;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
     color: #FFFFFF;
@@ -92,33 +91,32 @@ body {
 
 /*Our Benefits Styles*/
 
-.benefits {
-    background-color: #FFFFFF;
-}
-
 .benefits-list-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .benefits-list-text {
     font-size: 16px;
-    color: #434455;
 }
 
 /*Our Team Styles*/
-
-.team {
-    background-color: #F4F4FD;
-}
 
 .team-section-title {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.team-list-item {
+    background-color: #FFFFFF;
 }
 
 .team-list-title {
@@ -126,26 +124,25 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .team-list-text {
     text-align: center;
     font-size: 16px;
-    color: #434455;
 }
 
 /*Our Portfolio Styles*/
-
-.portfolio {
-    background-color: #FFFFFF;
-}
 
 .portfolio-section-title {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .portfolio-list-title {
@@ -153,11 +150,11 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    color: #2E2F42;
 }
 
 .portfolio-list-text {
     font-size: 16px;
-    color: #434455;
 }
 
 /*Footer Styles*/

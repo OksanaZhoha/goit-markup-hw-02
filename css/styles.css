@@ -110,8 +110,8 @@ address {
 
 /*Our Team Styles*/
 
-.team {
-    background-color: #F4F4FD;
+.team-list-item {
+    background-color: #FFFFFF;
 }
 
 .team-section-title {
@@ -155,6 +155,7 @@ address {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
